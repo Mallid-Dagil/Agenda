@@ -1,0 +1,58 @@
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\bin\Debug\UI.exe.config
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\bin\Debug\UI.exe
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\bin\Debug\UI.pdb
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromBienvneido.resources
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.exe
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.pdb
+C:\Users\Mallid\Desktop\Parcial\ProyectoAgenda2023\UI\obj\Debug\UI.Menu.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\UI.exe.config
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\UI.exe
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\UI.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.Menu.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.FromBienvneido.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.Properties.Resources.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.exe
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\BLL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.FromAgenda.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.FromContacto.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\UI\obj\Debug\UI.FromDireccion.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromAgenda.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromContacto.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromDireccion.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.Menu.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromBienvneido.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.Properties.Resources.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.exe
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\UI.exe.config
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\UI.exe
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\UI.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\BLL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.FromTelefono.resources
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\UI\obj\Debug\UI.Xml.resources

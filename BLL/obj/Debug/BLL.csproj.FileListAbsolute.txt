@@ -1,0 +1,22 @@
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\BLL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\obj\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BLL\obj\Debug\BLL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\BLL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\obj\Debug\BLL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BLL\obj\Debug\BLL.pdb

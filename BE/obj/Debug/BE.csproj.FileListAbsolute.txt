@@ -1,0 +1,12 @@
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\obj\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\BE\obj\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\obj\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\BE\obj\Debug\BE.pdb

@@ -1,0 +1,18 @@
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\obj\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Parcial 2\ProyectoAgenda2023\DAL\obj\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\bin\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\bin\Debug\DAL.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\bin\Debug\BE.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\bin\Debug\BE.pdb
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\obj\Debug\DAL.dll
+D:\UAI\2do año\2do Cuatrimestre\Lenguaje de Ultima Generacion\Experimentando con el parcial\ProyectoAgenda2023\DAL\obj\Debug\DAL.pdb
